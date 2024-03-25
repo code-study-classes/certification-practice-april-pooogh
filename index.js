@@ -10,7 +10,7 @@ const candidateAssessment = (/* content */) => {
 
 // task 3
 const actorRating = (/* content */) => {
-
+  console.log('kek');
 };
 
 export { tableParsing, candidateAssessment, actorRating };
